@@ -1,3 +1,3 @@
-# demo
+# Demo
 
-Some description
+Faraday's course on FreeCodeCamp
